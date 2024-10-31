@@ -8,11 +8,9 @@
 - FastAPI 기반의 안정적인 백엔드 서버
 - Ngrok을 통한 보안 터널링 제공
 
-## 🛠️ 기술 스택
-- **프레임워크**: FastAPI
-- **배포**: [Google Colab](https://colab.research.google.com/drive/1xXbTuyGfpUe08Ubbej51qMUiDBhmvX8T?usp=sharing)
-- **터널링**: Ngrok
-- **AI/ML**: PyTorch, TensorFlow
+## 🛠️ FastAPI 서버 구축 및 Ngrok을 통한 터널링
+- [Google Colab](https://colab.research.google.com/drive/1xXbTuyGfpUe08Ubbej51qMUiDBhmvX8T?usp=sharing)
+
 
 ## 🚀 시작하기
 
